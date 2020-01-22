@@ -5,7 +5,7 @@
     0,
     0
   ],
-  "zoom": 5,
+  "zoom": 2,
   "sources": {
     "vstd": {
       "type": "vector",
@@ -13,7 +13,7 @@
         "https://vectortiles.xyz/zxy/tapioca/{z}/{x}/{y}.pbf"
       ],
       "attribution": "OpenStreetMap contributors",
-      "maxzoom": 15
+      "maxzoom": 6
     }
   },
   "sprite": "https://hfu.github.io/unite-sprite/sprite",
