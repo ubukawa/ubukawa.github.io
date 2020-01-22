@@ -12,7 +12,11 @@
       "tiles": [
         "https://ubukawa.github.io/test0122/tiledata/{z}/{x}/{y}.pbf"
       ],
+<<<<<<< HEAD
       "attribution": "test",
+=======
+      "attribution": "OpenStreetMap contributors",
+>>>>>>> 94ed2806d9e6ad0ca64ed7605b8f6d4dcebd2752
       "maxzoom": 6
     }
   },
