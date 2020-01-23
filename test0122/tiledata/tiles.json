@@ -1,16 +1,16 @@
 {
   "tilejson": "2.2.0",
   "tiles": ["https://ubukawa.github.io/test0122/tiledata/{z}/{x}/{y}.pbf"],
-  "name": "carto",
+  "name": "carto_map",
   "attribution": "test",
   "maxzoom": 5,
   "minzoom": 0,
-  "bounds": [140.746596,37.836344,140.871589,37.919672],
-  "center": [140.767822,37.848832,14],
+  "bounds": [-180,-80,180,80],
+  "center": [0,0],
   "vector_layers": [{
-    "id": "veg",
-    "description": "vegetation data (Biodiversity Center of Japan)",
-    "maxzoom": 14,
+    "id": "bnda",
+    "description": "bundary area",
+    "maxzoom": 5,
     "minzoom": 0
   }]
 }
