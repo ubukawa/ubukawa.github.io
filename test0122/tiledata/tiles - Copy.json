@@ -12,10 +12,5 @@
     "description": "bundary area",
     "maxzoom": 5,
     "minzoom": 0
-  },{
-    "id": "bndl",
-    "description": "bundary line",
-    "maxzoom": 5,
-    "minzoom": 0
   }]
 }
